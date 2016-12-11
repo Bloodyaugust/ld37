@@ -1,0 +1,7 @@
+Temp/
+Obj/
+UnityGenerated/
+Library/
+*.exe
+*_Data
+*.sln
